@@ -1,3 +1,5 @@
-The quick brown fox jumped over a lazy dog.
+A directory is a file system structure that references to other files. A directory has many files within it. 
 
-Hi my name is Skyler. 
+They allow you to track your changes, revert changes easily, and share and collaborate on your files. 
+
+My favorite artistic medium is NFT's. I like them becuase they are new and growing rapidly. 
