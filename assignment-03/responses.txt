@@ -1,3 +1,0 @@
-A DNS or Domain Name Service is used to convert references into a servers IP address.
-Cookies are blocks of data made by web servers when a user is using a website and is put onto users device by their browser.
-The 3 essential parts of the URL are the protocol, the domain name, and the path. 
