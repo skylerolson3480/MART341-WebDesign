@@ -1,0 +1,47 @@
+body {
+  background-color: #008080;
+  font-family: Didot;
+  text-align: center;
+}
+
+ div {
+  border: 5px solid #000080;
+  display: inline-block;
+}
+
+img {
+  border-radius: 10%;
+  border: 10px solid #000080;
+}
+
+.inspiration {
+  background-color: #f0e68c;
+}
+
+#title {
+  font-size: 50px;
+}
+
+.palette {
+  background-color: lightgrey;
+  width: 750px;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #008080;
+}
+
+.dot.two {
+  background-color: #f0e68c;
+}
+
+.dot.three {
+  background-color: #000080;
+}
