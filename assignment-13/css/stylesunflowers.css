@@ -1,0 +1,140 @@
+/* styling for sunflowers page */
+
+body {
+  background-color: #fdd835;
+  font-family: Didot;
+  text-align: center;
+}
+
+ div {
+  border: 5px solid #4caf50;
+  display: inline-block;
+}
+
+img {
+  border-radius: 10%;
+  border: 10px solid #fdd835;
+}
+
+.inspiration {
+  background-color: #f9a825;
+}
+
+#title {
+  font-size: 50px;
+}
+
+.palette {
+  background-color: lightgrey;
+  width: 750px;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #4caf50;
+}
+
+.dot.two {
+  background-color: #f9a825;
+}
+
+.dot.three {
+  background-color: #fdd835;
+}
+
+/* Menu */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    margin-top: 0;
+    height: 4em;
+    width: 99%;
+    text-align: right;
+    font-family: Merriweather;
+    padding-right: 3em;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #333;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+.site-name {
+    color: #fdd835;
+    margin: 1em .2em;
+    min-width: 6em;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    letter-spacing: 0.3em;
+    float: left;
+    font-weight: bold;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fdd835;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #fdd835;
+    color: #333;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: #fdd835;
+}
+
+
+.dropdown:hover{
+    border-radius: 1em 1em 0em 0em;
+}
+
+#other:hover{
+    border-radius: 0em 0em 1em 1em;
+}
