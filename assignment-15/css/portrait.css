@@ -1,0 +1,115 @@
+body{
+  background-image: url("../images/portraittexture.png")
+}
+
+body {
+  background-color: #b0e0e6;
+  font-family: Didot;
+  text-align: center;
+}
+
+ div {
+  border: 5px solid #4682b4;
+  display: inline-block;
+}
+
+img {
+  border-radius: 10%;
+  border: 10px solid #b0e0e6;
+}
+
+
+.inspiration {
+  background-color: #d2691e;
+  .width: 75%;
+  float: center;
+}
+
+.inspiration:hover{
+  background-color: #b0e0e6;
+}
+
+.display-inline-block{
+  display: inline-block;
+}
+
+#title {
+  font-size: 50px;
+}
+
+.palette {
+  background-color: #F0FFFF;
+  .width: 75%;
+  float: center;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #4682b4;
+}
+
+.dot.two {
+  background-color: #b0e0e6;
+}
+
+.dot.three {
+  background-color: #d2691e;
+}
+
+
+/* Set the layout of the menu: */
+*{
+  box-sizing: border-box;
+}
+
+.menu{
+  width:25%;
+  float: center;
+  align: center;
+}
+
+.display-block{
+  display: block;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #333;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #fdd835;
+    text-color: white;
+}
+
+.menu-item:hover {
+    background-color:black;
+    color: #white;
+}
+
+img{
+  width: 50%;
+  height: auto;
+}
+
+/*for desktop*/
+.col-1 {width: 100%}
+
+@media only screen and (max-width: 768px){
+  /*for mobile phones: */
+  [class*="col-"]{
+    width: 100%;
+  }
+}
