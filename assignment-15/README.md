@@ -1,5 +1,0 @@
-I think my user testing went pretty well. I had a roommate and a friend look through my website and answer the questions I had. I found that sometimes their answers weren't super useful so I would have to prompt them further to get good feedback. While I wish I could have gotten more recommendations from them, I was able to recognize a few issues with my website and make changes.
-
-I made 3 changes from the feedback I got. The first thing I did was make the website usable on mobile devices, then I added a texture to the background of my website since both of the people I tested said it looked plain and needed more, as well as I included hover features. Finally I added more of a description to the paintings since one person recommended this and he said that since thats the main goal of the website, to display the work, it might be cool to have more info on them.
-
-I struggled at first making my website responsive because I intended for it to only have 1 row which is a bit different than what was demonstrated in the tutorial. However, after re-reading through this weeks lesson on the class website, I was able to get the responsiveness to work how I wanted it to.
